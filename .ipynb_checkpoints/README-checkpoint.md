@@ -16,6 +16,7 @@ Unsurprisingly, the strongest predictor of accepting a bar coupon seems to be wh
 Interestingly, relatively low income drivers who often visit cheap restaurants only accepted the coupon 60% of the time, which is lower than I expected. If we split this group into frequent vs. infrequent bar visitors, the results are surprising:
 
 Acceptance rate for this group who are infrequent bar visitors: 58.8%
+
 Acceptance rate for this group who are frequent bar visitors: 65.94%
 
 Among this group, frequent bar visitors accepted the bar coupon at a 66% rate, lower than the overall rate for frequent bar visitors (77%). This is a bit strange. However, infrequent bar visitors in this group accepted the bar coupon at a 59% rate, much higher than the 37% overall rate for infrequent bar visitors. This suggests that both low income and frequently visiting cheap restaurants make a driver more likely to accept a bar coupon, at least in the case where they are not frequent bar visitors.
